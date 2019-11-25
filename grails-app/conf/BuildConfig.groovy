@@ -17,6 +17,7 @@ grails.project.groupId = "com.jcatalog.minsk-core-test-app1"
 // inline plugins
 // grails.plugin.location."hot-folder" = "./plugins/hot-folder"
 // @insert_inline_plugins_after_this_line
+grails.plugin.location."minsk-core-test-plugin1" = "./plugins/minsk-core-test-plugin1"
 
 grails.project.dependency.resolution = {
     inherits("global") {

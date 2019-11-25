@@ -1,0 +1,4 @@
+[submodule "plugins/minsk-core-test-plugin1"]
+	path = plugins/minsk-core-test-plugin1
+	url = git@github.com:ocmachineuser/minsk-core-test-plugin1.git
+	branch = master
